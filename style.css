@@ -1,0 +1,14 @@
+#char {
+    font-size: 98px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center; /* Center the text within the char element */
+}
+
+#game {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
